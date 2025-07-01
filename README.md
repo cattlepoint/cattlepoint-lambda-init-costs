@@ -1,7 +1,10 @@
 # cattlepoint-lambda-init-costs
-### Vibe coded project; use at your own risk.
 
 Estimate the monthly **cold‑start (Init Duration)** cost for every ZIP‑package AWS Lambda function in an account.
+
+---
+
+### Vibe coded project; use at your own risk.
 
 ---
 
@@ -99,10 +102,6 @@ cost = (avg_init_ms / 1000)   # seconds
 ## Pricing reference
 
 As of **July 1 2025**, Lambda GB‑second price in `us‑east‑1` is **\$0.0000166667**. Adjust `PRICE_PER_GB_SECOND` in the script if AWS updates pricing.
-
-## Contributing
-
-Pull requests and issues welcome.
 
 ## License
 
