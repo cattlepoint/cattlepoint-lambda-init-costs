@@ -27,7 +27,7 @@ Estimate the monthly **cold‑start (Init Duration)** cost for every ZIP‑pac
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -U boto3
-git clone https://github.com/your-org/cattlepoint-lambda-init-costs.git
+git clone https://github.com/cattlepoint/cattlepoint-lambda-init-costs.git
 cd cattlepoint-lambda-init-costs
 ```
 
