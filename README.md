@@ -1,4 +1,5 @@
 # cattlepoint-lambda-init-costs
+### Vibe coded project; use at your own risk.
 
 Estimate the monthly **cold‑start (Init Duration)** cost for every ZIP‑package AWS Lambda function in an account.
 
